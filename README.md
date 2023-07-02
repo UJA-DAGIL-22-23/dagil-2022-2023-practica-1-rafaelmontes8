@@ -7,7 +7,7 @@ Tus tareas consisten en:
 2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
 
 ### Víctor M. Rivas Santos
-<img src='/vrivas-2022.png' width='200px'>
+<img src='https://platea.ujaen.es/pluginfile.php/51498/user/icon/uja/f1?rev=6651753' width='200px'>
 
 Profesor del departamento de Informática de la Universidad de Jaén.
 * **Correo**: rme00021@red.ujaen.es
