@@ -13,4 +13,4 @@ Alumno de Ingenieria Informática en la Universidad de Jaén.
 * **Correo**: rme00021@red.ujaen.es
 * **Web**: http://rafaelmontes.cloud
 * **GitHub**: [https://github.com/rafaelmontes8](https://github.com/rafaelmontes8)
-* **Trello**: https://trello.com/vrivas_ujaen_es
+* **Trello**: [Trello Practica 1](https://trello.com/b/xLeRezD6/practica-1)
