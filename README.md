@@ -9,7 +9,7 @@ Tus tareas consisten en:
 ### Rafael Montes Expósito
 <img src='https://platea.ujaen.es/pluginfile.php/51498/user/icon/uja/f1?rev=6651753' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
+Alumno de Ingenieria Informática en la Universidad de Jaén.
 * **Correo**: rme00021@red.ujaen.es
 * **Web**: http://rafaelmontes.cloud
 * **GitHub**: [https://github.com/rafaelmontes8](https://github.com/rafaelmontes8)
